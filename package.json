@@ -1,10 +1,15 @@
 {
-  "name": "@windix/npm-tiny",
-  "version": "1.9.0",
-  "main": "src/index.js",
+  "name": "@misaelbg/errorflow",
+  "version": "1.1.0",
+  "main": "lib/errorflow.js",
   "license": "MIT",
+  "dependencies": {
+    "winston": "^3.3.3",
+    "@sentry/node": "^5.18.1"
+  },
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "assume": "^2.2.0"
   },
   "scripts": {
     "test": "jest"

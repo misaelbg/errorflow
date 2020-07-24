@@ -1,8 +1,6 @@
-# @windix/npm-tiny
+# @misaelbg/errorflow
 
-Derived from https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/
-
-[![npm (scoped)](https://img.shields.io/npm/v/@windix/npm-tiny.svg)](https://www.npmjs.com/package/@windix/npm-tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@misaelbg/npm-tiny.svg)](https://www.npmjs.com/package/@windix/npm-tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@windix/npm-tiny.svg)](https://www.npmjs.com/package/@windix/npm-tiny)
 
 Removes all spaces from a string.
@@ -10,17 +8,14 @@ Removes all spaces from a string.
 ## Install
 
 ```bash
-$ npm install @windix/npm-tiny
+$ npm install @misaelbg/errorflow
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@windix/npm-tiny");
+const errorflow = require("@misaelbg/errorflow");
 
-tiny('So much space!');
-//=> "Somuchspace!"
 
-tiny(123);
-//=> Uncaught TypeError: tiny expects a string!
+// TODO - examples
 ```

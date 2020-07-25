@@ -7,7 +7,7 @@ The ErrorHandler component provides tools to manage errors and ease debugging fo
 
 ## Integrations
 
-> [https://github.com/getsentry/sentry.git](Sentry)
+> [(https://sentry.io/?utm_source=github&utm_medium=logo)](https://github.com/getsentry/sentry.git)
 
 ## Install
 

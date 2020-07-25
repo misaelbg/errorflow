@@ -17,7 +17,9 @@ The ErrorHandler component provides tools to manage errors and ease debugging fo
 
   
 ><a href="https://github.com/getsentry/sentry"><img src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" alt="Sentry" height="32"></a>
+
 >[winston](https://github.com/winstonjs/winston)
+
 ><a href="https://github.com/expressjs/express"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Sentry" height="32"></a>
   
 

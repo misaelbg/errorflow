@@ -13,8 +13,5 @@
   },
   "scripts": {
     "test": "jest"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
